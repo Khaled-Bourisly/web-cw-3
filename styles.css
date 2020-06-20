@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  
+    <title>موقــعي</title>
+
+    <!-- 👇هنا style قم بإضافة وسم   -->
+    <style>
+h1{ 
+    color: blue;
+}
+ul{
+    list-style-type: none;
+}
+.ps4{
+    background-color: blue;
+}
+.nintendo{
+    background-color: red;
+}
+.pc{
+    background-color: green;
+}
+    </style>
